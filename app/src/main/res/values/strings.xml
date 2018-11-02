@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hikers Watch</string>
+    <string name="textview">Altitude : -----</string>
+</resources>
